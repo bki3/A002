@@ -1,5 +1,3 @@
-<p>This tutorial will guide you through the process of using GitHub with WebStorm, including creating a GitHub account, setting up a repository, and understanding key Git concepts.</p>
-
 <h2>Part 1: Setting Up GitHub and WebStorm</h2>
 
 <h3>1. Create a GitHub Account</h3>
